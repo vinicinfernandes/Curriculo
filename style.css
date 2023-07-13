@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Open+Sans:wght@400;500;700&display=swap');
+body {
+  background-color: #152238;
+  margin: 0;
+  padding: 0;
+}
+
+body * {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 35px;
+}
+
+.container {
+  max-width: 600px;
+  margin: 20px auto;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.section h2 {
+  color: #ffffff;
+  font-size: 18px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  letter-spacing: 2px;
+  background-color: #152238;
+  padding: 8px 10px;
+  border-radius: 5px;
+}
+
+.section p {
+  color: #000000;
+  margin-bottom: 5px;
+}
+
+.section a {
+  color: #000000;
+  text-decoration: none;
+}
+
+.section .icon {
+  margin-right: 5px;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill {
+  background-color: #cfcece;
+  color: #000000;
+  padding: 5px 10px;
+  border-radius: 3px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.personal-info {
+  background-color: #dbd7d7;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.other-section {
+  background-color: #f3f2f2;
+  padding: 10px;
+  border-radius: 5px;
+}

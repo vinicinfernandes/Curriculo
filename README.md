@@ -58,13 +58,19 @@ O projeto de currículo em HTML e CSS é uma aplicação web que permite aos usu
 <h1 align="center">
 <img src="https://github.com/vinicinfernandes/Curriculo/blob/main/IMGS/cursos.png" alt="Cursos" width= 70%>
 </h1>
-<h2>💻Tecnologias Utilizadas</h2>
+<h2>🔧 Tecnologias Utilizadas</h2>
 <ul>
 <li>HTML5;</li> 
 <li>CSS3.</li> 
 </ul>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+<h2>⚙ Estrutura de Arquivos</h2>
+<ul>
+  <li>index.html: arquivo HTML contendo a estrutura básica da tela de login;</li>
+  <li>style.css: arquivo CSS contendo os estilos para a tela de login.</li>
+</ul>
 
 <h2>👨‍🎓 Desenvolvedor</h2> 
 
